@@ -3,3 +3,10 @@ gspread
 pandas
 requests
 beautifulsoup4
+feedparser
+pandas
+lxml
+beautifulsoup4
+playwright
+gspread
+google-auth
