@@ -1,5 +1,0 @@
-#requirements.txt
-gspread
-pandas
-requests
-beautifulsoup4
